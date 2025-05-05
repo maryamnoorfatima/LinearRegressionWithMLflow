@@ -23,10 +23,13 @@ pip install mlflow scikit-learn pandas matplotlib kagglehub
 ## How to Run
 
 
-  - python train_model.py
+- python train_model.py
 Launch MLflow UI to view results
 
 
-   -mlflow ui
+- mlflow ui
 Then go to http://127.0.0.1:5000 in your browser.
+
+
+---
 
